@@ -1,0 +1,7 @@
+[user]
+	email = trent.edilloran@gmail.com
+	name = Trent Edilloran
+[core]
+  editor = "vim"
+[color]
+  ui = auto
