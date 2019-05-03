@@ -1,6 +1,8 @@
 [user]
 	email = trent.edilloran@gmail.com
 	name = Trent Edilloran
+[github]
+  user = tedilloran
 [core]
   editor = "vim"
 [color]
